@@ -1,1 +1,17 @@
-{}
+
+    {
+        "name": "backphpv2",
+        "description": "Descripción de tu proyecto",
+        "type": "project",
+        "require": {
+            "php": "^8.2"
+        },
+        "authors": [
+            {
+                "name": "Maria",
+                "email": "mdtrentinarl@gmail.com"
+            }
+        ],
+        "minimum-stability": "stable",
+        "prefer-stable": true
+    }
